@@ -6,6 +6,9 @@ credits of some of the css goes to them <3 */
   --white: rgb(255, 255, 255);
 }
 
+* {
+  min-width: 0;
+}
 
 #enter {
 color: rgb(255, 255, 255);
